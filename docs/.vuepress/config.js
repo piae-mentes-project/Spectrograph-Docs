@@ -1,6 +1,6 @@
 module.exports = {
-    title: '音游:溯 制谱器开发文档 Offical',
-    description: '溯的制谱器开发文档',
+    title: '制谱器开发文档 Offical',
+    description: 'Spectrometer development documents of piae mentes.',
     head: [
         ["link", { rel: "icon", href: "https://storage.pyliubaolin.top/ArchiveImage/2021-02-07_lzhbhlrPython/2021-02-07_19-33-06[gui].jpg" }]
     ],
@@ -8,13 +8,10 @@ module.exports = {
         "@vuepress/active-header-links", "@vuepress/back-to-top"
     ],
     themeConfig: {
-        logo: "https://storage.pyliubaolin.top/ArchiveImage/2021-01-22_lzhbhlrPython/2021-01-22_15-49-33[gui].jpg",
+        logo: "https://storage.pyliubaolin.top/ArchiveImage/2021-02-07_lzhbhlrPython/2021-02-07_19-33-06[gui].jpg",
         nav: [{
-            text: "关于我",
-            link: "/About"
-        }, {
-            text: "项目清单",
-            link: "/projects/"
+            text: "开发文档",
+            link: "/dev-doc/"
         }],
         sidebar: {
             "/projects/": [
