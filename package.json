@@ -1,10 +1,10 @@
 {
-    "name": "spectrograph-piaementes.docs.pyliubaolin.top",
+    "name": "doc.10minstudio.com",
     "version": "1.0.0",
     "description": "<溯>官方制谱器",
     "main": "index.js",
     "repository": "https://github.com/piae-mentes-project/Spectrograph-Docs.git",
-    "author": "Piae Mentes Project <zzxzqr@163.com>",
+    "author": "Ten Minutes Game Studio<10minGameStudio@gmail.com>",
     "license": "BSD-3",
     "devDependencies": {
         "@vuepress/plugin-active-header-links": "^1.8.0",
